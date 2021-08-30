@@ -8,12 +8,20 @@ body{
 
 
 }
-h1,h2{
+h1,h2,h3{
 text-align: center;
 font-size: 4em;
 
-
 }
+
+
+h4{
+	text-align: center;
+	font-size: 3em;
+}
+
+
+
 
 p{
 
@@ -26,7 +34,7 @@ text-indent: 1.5em;
 
 img{
 
-width: 90%;
+width: 60%;
 
 }
 
